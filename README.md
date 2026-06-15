@@ -19,10 +19,10 @@ const MohammedJameel = {
   stack: {
     frontend: ["React.js", "Vite", "JavaScript", "Bootstrap"],
     backend:  ["Node.js", "Express", "REST APIs"],
-    cloud:    ["AWS (EC2, S3, Lambda)", "Docker", "Kubernetes"],
+    cloud:    ["AWS (Foundations · Developing · Operations)", "Docker", "Kubernetes", "Git/ GitHub", "GitHub Actions", "Linux Administration I", "Terraform"],
     ai_tools: ["Claude", "ChatGPT", "Amazon Q", "Gemini"],
   },
-  currently: "Building an IT Helpdesk System 🛠️",
+  Currently: "Building an IT Helpdesk System 🛠️",
   seeking:   "Software Engineering | Cloud | DevOps opportunities",
 };
 ```
