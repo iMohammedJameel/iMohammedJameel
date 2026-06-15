@@ -22,7 +22,6 @@ const MohammedJameel = {
     cloud:    ["AWS (Foundations · Developing · Operations)", "Docker", "Kubernetes", "Git/ GitHub", "GitHub Actions", "Linux Administration I", "Terraform"],
     ai_tools: ["Claude", "ChatGPT", "Amazon Q", "Gemini"],
   },
-  Currently: "Building an IT Helpdesk System 🛠️",
   seeking:   "Software Engineering | Cloud | DevOps opportunities",
 };
 ```
