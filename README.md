@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammed Jameel 👋</h1>
-<h3 align="center">Software Engineer 💻 | Cloud & DevOps Enthusiast ☁️ | GDG on Campus Alumni 🎓</h3>
+<h3 align="center">Software Engineer 💻 | Cloud & DevOps ☁️ | Ex-GDG on Campus Chapter Leader</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/imohammedjameel"><img src="https://img.shields.io/badge/Mohammed%20Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
