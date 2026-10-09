@@ -1,12 +1,15 @@
-# Hi, I'm Mohammed Jameel Fouad 👋
+<h1 align="center">Hi, I'm Mohammed Jameel Fouad 👋</h1>
+<h3 align="center">Full Stack Developer 💻 | Cloud & DevOps ☁️ | Ex-GDG on Campus Chapter Leader</h3>
 
-### Full Stack Developer 💻 | Cloud & DevOps ☁️ | Ex-GDG on Campus Chapter Leader
-
-[![LinkedIn](https://img.shields.io/badge/Mohammed%20Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imohammedjameel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mo.jameel.official@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://imohammedjameel.github.io/)
+<p align="center">
+  <a href="https://linkedin.com/in/imohammedjameel"><img src="https://img.shields.io/badge/Mohammed%20Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mo.jameel.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://imohammedjameel.github.io/"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
 
 ---
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
 ## 🚀 About Me
 
@@ -20,15 +23,14 @@ const MohammedJameel = {
     backend:  ["Node.js", "Express", "Python", "FastAPI", "REST APIs", "JWT"],
     database: ["MongoDB"],
     mobile:   ["Flutter", "Dart"],
-    cloud:    ["AWS (Cloud Practitioner · Developing · Operations)", "Docker", "Terraform", "Git/GitHub", "Linux"],
+    cloud:    ["AWS (Cloud Practitioner · Developing · Operations)", "Docker", "Terraform", "Git/ GitHub", "Linux"],
     ai_tools: ["Claude", "GLM", "ChatGPT", "Amazon Q", "Gemini"],
   },
-  seeking: "Full Stack Software Engineering opportunities",
+  seeking:   "Full Stack Software Engineering opportunities",
 };
 ```
 
 ## 🔥 Highlights
-
 - 🏛️ **Software Engineering Intern @ MCIT** — built the **DEPI-Staff-Management System** end to end (React, TypeScript, FastAPI, MongoDB; 150+ REST endpoints, 500+ automated tests)
 - 🎓 **Digilians AI-Based Software Development Specialized Diploma** graduate
 - ☁️ **AWS Certified Cloud Practitioner** + AWS Cloud Development & Operations
@@ -52,16 +54,20 @@ const MohammedJameel = {
 
 ## 🧰 Tech Toolbox
 
-![Tech Stack](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,bootstrap,nodejs,express,py,fastapi,mongodb,flutter,dart,aws,docker,terraform,git,github,linux,postman,vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,bootstrap,nodejs,express,py,fastapi,mongodb,flutter,dart,aws,docker,terraform,git,github,linux,vscode,postman" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMohammedJameel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iMohammedJameel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMohammedJameel&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
 
 ---
 
 ## ⚡️ Motto
-
 > **"Build it. Deploy it. Scale it."**
