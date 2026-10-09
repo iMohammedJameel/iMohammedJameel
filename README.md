@@ -60,14 +60,5 @@ const MohammedJameel = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iMohammedJameel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMohammedJameel&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
----
-
 ## ⚡️ Motto
 > **"Build it. Deploy it. Scale it."**
