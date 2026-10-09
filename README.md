@@ -1,56 +1,67 @@
-<h1 align="center">Hi, I'm Mohammed Jameel 👋</h1>
-<h3 align="center">Software Engineer 💻 | Cloud & DevOps ☁️ | Ex-GDG on Campus Chapter Leader</h3>
+# Hi, I'm Mohammed Jameel Fouad 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/imohammedjameel"><img src="https://img.shields.io/badge/Mohammed%20Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mo.jameel.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### Full Stack Developer 💻 | Cloud & DevOps ☁️ | Ex-GDG on Campus Chapter Leader
+
+[![LinkedIn](https://img.shields.io/badge/Mohammed%20Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imohammedjameel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mo.jameel.official@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://imohammedjameel.github.io/)
 
 ---
-
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
 ## 🚀 About Me
 
 ```js
 const MohammedJameel = {
-  role: "Software Engineering Trainee @ Digilians",
-  focus: ["Full-Stack Development", "Cloud Engineering", "DevOps"],
+  role: "Software Engineering Intern @ MCIT",
+  education: "Digilians AI-Based Software Development Specialized Diploma (Graduate)",
+  focus: ["Full-Stack Development", "Cloud Engineering"],
   stack: {
-    frontend: ["React.js", "Vite", "JavaScript", "Bootstrap"],
-    backend:  ["Node.js", "Express", "REST APIs"],
-    cloud:    ["AWS (Foundations · Developing · Operations)", "Docker", "Kubernetes", "Git/ GitHub", "GitHub Actions", "Linux Administration I", "Terraform"],
-    ai_tools: ["Claude", "ChatGPT", "Amazon Q", "Gemini"],
+    frontend: ["React.js", "TypeScript", "JavaScript", "Tailwind CSS", "Vite", "Bootstrap"],
+    backend:  ["Node.js", "Express", "Python", "FastAPI", "REST APIs", "JWT"],
+    database: ["MongoDB"],
+    mobile:   ["Flutter", "Dart"],
+    cloud:    ["AWS (Cloud Practitioner · Developing · Operations)", "Docker", "Terraform", "Git/GitHub", "Linux"],
+    ai_tools: ["Claude", "GLM", "ChatGPT", "Amazon Q", "Gemini"],
   },
-  seeking:   "Software Engineering | Cloud | DevOps opportunities",
+  seeking: "Full Stack Software Engineering opportunities",
 };
 ```
 
 ## 🔥 Highlights
-- ☁️ **3x AWS Academy Graduate** — Cloud Foundations, Developing & Operations
+
+- 🏛️ **Software Engineering Intern @ MCIT** — built the **DEPI-Staff-Management System** end to end (React, TypeScript, FastAPI, MongoDB; 150+ REST endpoints, 500+ automated tests)
+- 🎓 **Digilians AI-Based Software Development Specialized Diploma** graduate
+- ☁️ **AWS Certified Cloud Practitioner** + AWS Cloud Development & Operations
 - 🎓 **Meta Front-End Developer** Professional Certificate
 - 🤝 Former **GDG on Campus Chapter Leader** — Thebes Academy
-- 🛠️ Building a full-stack **IT Helpdesk System** with React.js, Node.js & AWS
 - 🏆 **ECPC Participant** — Egyptian Collegiate Programming Contest
+
+---
+
+## 📦 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**MediMind**](https://github.com/Abdelrahman-Mahmoud-Elsaeed/MediMind) | Medication management platform for chronic patients, linking them with family, pharmacy, and doctor. I built the Flutter mobile app and the conditions, doses, and medications backend modules (team project). | Flutter, Node.js, MongoDB, Docker, AWS |
+| [**IT-Ticketing-System**](https://github.com/iMohammedJameel/IT-Ticketing-System) | Full-stack ticketing platform replacing informal WhatsApp IT requests, with role-based access and an admin analytics dashboard. | React, Node.js, Express, MongoDB, JWT |
+| [**eco-system (EcoCycle)**](https://github.com/iMohammedJameel/eco-system) | Admin platform for a nationwide smart reverse-vending-machine network for plastic recycling in Egypt. | React, Node.js, Express, MongoDB, JWT |
+| [**aws-scalable-web-app**](https://github.com/iMohammedJameel/aws-scalable-web-app) | Scalable, highly available 3-tier web app on AWS: CloudFront + WAF, ALB, EC2 Auto Scaling, RDS Multi-AZ, deployed with CloudFormation. | AWS, CloudFormation |
+| [**terraform-aws-lab**](https://github.com/iMohammedJameel/terraform-aws-lab) | Hands-on lab provisioning AWS infrastructure as code with Terraform. | Terraform, AWS |
 
 ---
 
 ## 🧰 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,html,css,bootstrap,aws,docker,kubernetes,git,github,linux,flutter,dart,vscode,postman" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,bootstrap,nodejs,express,py,fastapi,mongodb,flutter,dart,aws,docker,terraform,git,github,linux,postman,vscode)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iMohammedJameel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMohammedJameel&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMohammedJameel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
 ---
 
 ## ⚡️ Motto
+
 > **"Build it. Deploy it. Scale it."**
