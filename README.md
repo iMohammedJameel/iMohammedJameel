@@ -23,7 +23,7 @@ const MohammedJameel = {
     backend:  ["Node.js", "Express", "Python", "FastAPI", "REST APIs", "JWT"],
     database: ["MongoDB"],
     mobile:   ["Flutter", "Dart"],
-    programming: ["Java", "C++", "OOP"],
+    programming: ["Java", "C++", "OOP", "Data Structures"],
     security_automation: ["OWASP Top 10", "n8n"],
     cloud:    ["AWS (Developer Associate · Cloud Practitioner)", "Docker", "Terraform", "Kubernetes", "Helm", "GitHub Actions", "Git/ GitHub", "Linux"],
     ai_tools: ["Claude", "GLM", "ChatGPT", "Amazon Q", "Gemini"],
