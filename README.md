@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/imohammedjameel"><img src="https://img.shields.io/badge/Mohammed%20Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mo.jameel.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/imohammedjameel/"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
   <a href="https://imohammedjameel.github.io/"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
@@ -61,6 +62,7 @@ const MohammedJameel = {
 </p>
 
 ---
+
 
 
 ## ⚡️ Motto
