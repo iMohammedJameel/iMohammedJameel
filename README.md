@@ -23,7 +23,7 @@ const MohammedJameel = {
     backend:  ["Node.js", "Express", "Python", "FastAPI", "REST APIs", "JWT"],
     database: ["MongoDB"],
     mobile:   ["Flutter", "Dart"],
-    cloud:    ["AWS (Developer Associate · Cloud Practitioner)", "Docker", "Terraform", "Git/ GitHub", "Linux"],
+    cloud:    ["AWS (Developer Associate · Cloud Practitioner)", "Docker", "Terraform", "Kubernetes", "Helm", "GitHub Actions", "Git/ GitHub", "Linux"],
     ai_tools: ["Claude", "GLM", "ChatGPT", "Amazon Q", "Gemini"],
   },
   seeking:   "Full Stack Software Engineering opportunities",
@@ -55,7 +55,7 @@ const MohammedJameel = {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,bootstrap,nodejs,express,py,fastapi,mongodb,flutter,dart,aws,docker,terraform,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,bootstrap,nodejs,express,py,fastapi,mongodb,flutter,dart,aws,docker,kubernetes,terraform,githubactions,git,github,linux,vscode,postman" />
 </p>
 
 ---
