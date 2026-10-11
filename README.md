@@ -23,7 +23,7 @@ const MohammedJameel = {
     backend:  ["Node.js", "Express", "Python", "FastAPI", "REST APIs", "JWT"],
     database: ["MongoDB"],
     mobile:   ["Flutter", "Dart"],
-    cloud:    ["AWS (Cloud Practitioner · Developing · Operations)", "Docker", "Terraform", "Git/ GitHub", "Linux"],
+    cloud:    ["AWS (Developer Associate · Cloud Practitioner)", "Docker", "Terraform", "Git/ GitHub", "Linux"],
     ai_tools: ["Claude", "GLM", "ChatGPT", "Amazon Q", "Gemini"],
   },
   seeking:   "Full Stack Software Engineering opportunities",
@@ -33,7 +33,7 @@ const MohammedJameel = {
 ## 🔥 Highlights
 - 🏛️ **Software Engineering Intern @ MCIT** — built the **DEPI-Staff-Management System** end to end (React, TypeScript, FastAPI, MongoDB; 150+ REST endpoints, 500+ automated tests)
 - 🎓 **Digilians AI-Based Software Development Specialized Diploma** graduate
-- ☁️ **AWS Certified Cloud Practitioner** + AWS Cloud Development & Operations
+- ☁️ **AWS Certified Developer – Associate** + AWS Certified Cloud Practitioner
 - 🎓 **Meta Front-End Developer** Professional Certificate
 - 🤝 Former **GDG on Campus Chapter Leader** — Thebes Academy
 - 🏆 **ECPC Participant** — Egyptian Collegiate Programming Contest
@@ -59,6 +59,7 @@ const MohammedJameel = {
 </p>
 
 ---
+
 
 ## ⚡️ Motto
 > **"Build it. Deploy it. Scale it."**
