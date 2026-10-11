@@ -23,6 +23,8 @@ const MohammedJameel = {
     backend:  ["Node.js", "Express", "Python", "FastAPI", "REST APIs", "JWT"],
     database: ["MongoDB"],
     mobile:   ["Flutter", "Dart"],
+    programming: ["Java", "C++", "OOP"],
+    security_automation: ["OWASP Top 10", "n8n"],
     cloud:    ["AWS (Developer Associate · Cloud Practitioner)", "Docker", "Terraform", "Kubernetes", "Helm", "GitHub Actions", "Git/ GitHub", "Linux"],
     ai_tools: ["Claude", "GLM", "ChatGPT", "Amazon Q", "Gemini"],
   },
@@ -55,7 +57,7 @@ const MohammedJameel = {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,bootstrap,nodejs,express,py,fastapi,mongodb,flutter,dart,aws,docker,kubernetes,terraform,githubactions,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,bootstrap,nodejs,express,py,fastapi,mongodb,flutter,dart,java,cpp,aws,docker,kubernetes,terraform,githubactions,git,github,linux,vscode,postman" />
 </p>
 
 ---
